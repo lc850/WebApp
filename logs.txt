@@ -1,0 +1,29 @@
+commit d6b30040bdec397e2fc135bf8c7b254f486d4617
+Author: Luis Carlos <lc850@hotmail.com>
+Date:   Thu Jun 23 11:31:51 2016 -0600
+
+    Footer agregado
+
+commit 4e2179137f669af7fc12a6cf72b887e7f8d2fd3e
+Author: Luis Carlos <lc850@hotmail.com>
+Date:   Thu Jun 23 11:27:31 2016 -0600
+
+    Contenido de la pagina
+
+commit a9ffa65550846122fca13a98920c7913addfe729
+Author: Luis Carlos <lc850@hotmail.com>
+Date:   Thu Jun 23 11:13:45 2016 -0600
+
+    bootstrap integrado
+
+commit 780339079ad08afd6600990dcedf1ba3cd9bccd2
+Author: Luis Carlos <lc850@hotmail.com>
+Date:   Thu Jun 23 11:09:06 2016 -0600
+
+    Encabezado de la pagina
+
+commit 9a41d6e7fcf5511f5e1a1db689dc71a68f4baede
+Author: Luis Carlos <lc850@hotmail.com>
+Date:   Thu Jun 23 11:01:33 2016 -0600
+
+    Estructura base del proyecto
